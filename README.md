@@ -1,19 +1,13 @@
-### Hi there 👋
+## Olá, me chamo Lucas Hermes Felini ! 
+### Bem vindo ao meu perfil GitHub :smiley:
 
-<!--
-**LucasFelini/LucasFelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente me especializando em desenvolvimento web na #Trybe.
 
-Here are some ideas to get you started:
+### Algumas das Ferramentas e Tecnologias que estou desenvolvendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 ![Snake animation](https://github.com/LucasFelini/LucasFelini/blob/output/github-contribution-grid-snake.svg)
