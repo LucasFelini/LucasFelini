@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
-    <title>Seja bem vindo(a)!</title>
     <style>
         
         h1 {
