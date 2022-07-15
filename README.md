@@ -2,7 +2,7 @@
 <br><br>
 <strong>Seja bem vindo ao meu perfil GitHub</strong> :smiley:
 <br><br>
-Aqui você irá encontrar meus projetos concluídos durante meu curso na <a href="https://www.betrybe.com/" targe="_blank"> Trybe </a>.
+Aqui você irá encontrar meus projetos concluídos durante meu curso na <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>.
 <br><br>
 <div>
 <a href="https://github.com/LucasFelini">
